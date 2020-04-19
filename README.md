@@ -1,2 +1,2 @@
 # java-core
-Java Core Demos
+Java Core Concept Demos
