@@ -12,6 +12,8 @@ package java.core.javadoc;
 // Refresh the package so that contents reflect
 // Open index-all.html in Eclipse browser
 
+// For more advance and automated process use maven's assistance to achieve so
+
 public class AdditionMain {
 
 	public static void main(String[] args) {
