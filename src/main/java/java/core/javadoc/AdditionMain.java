@@ -28,6 +28,6 @@ public class AdditionMain {
 	}
 
 // To know how to use java doc more meaningfully
-// Ctrl+hover over println and have a look at its Declaration
+// Ctrl+hover over println and have a look at its Declaration or in general have a look at implementations of Java methods.
 
 }
