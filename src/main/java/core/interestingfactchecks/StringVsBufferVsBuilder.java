@@ -1,4 +1,4 @@
-package core.mutablestringclasses;
+package core.interestingfactchecks;
 
 public class StringVsBufferVsBuilder {
 
